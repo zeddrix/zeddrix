@@ -31,24 +31,39 @@ Our team combines decades of experience with cutting-edge AI tools to deliver ex
 
 ### Frontend Development
 
-- **Frameworks:** React, Next.js, Angular, Svelte(Kit)
-- **Styling:** CSS3, SASS, Tailwind CSS, Material-UI, Bootstrap
-- **State Management:** Redux, Context API
-- **Testing:** Jest, React Testing Library, Cypress, Playwright
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material-UI Badge](https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Cypress Badge](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)
+![Playwright Badge](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ### Backend Development
 
-- **Frameworks:** Node.js (Express, NestJS), Django
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis
-- **APIs:** RESTful
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
 
-- **Containerization:** Docker
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Tools & Technologies
 
-- **Version Control:** Git, GitHub
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
