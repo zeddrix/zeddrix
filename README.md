@@ -1,4 +1,4 @@
-# 👨‍💻 Zeddrix Fabian - Software Engineer
+# Zeddrix Fabian - Software Engineer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:zeddrix.fabian@codefrost.com)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm currently working at [Codefrost](https://codefrost.dev/), where we're revolutionizing software development through:
 
@@ -21,7 +21,7 @@ Our team combines decades of experience with cutting-edge AI tools to deliver ex
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -67,7 +67,7 @@ Our team combines decades of experience with cutting-edge AI tools to deliver ex
 
 ---
 
-## 🏆 Projects I've Contributed Development to
+## Projects I've Contributed Development to
 
 ### [UseDelight](https://chromewebstore.google.com/detail/Nature%20Wallpapers%20HD%20video%20New%20Tab%20background/hehbgjdnbibkndghdlilefececadokpb)
 
@@ -89,20 +89,20 @@ Personalized guidance, adapting to your needs for a more fulfilling and joyful l
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 View my certifications on [LinkedIn](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/details/certifications/)
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - **Tagalog:** Native
 - **English:** Professional Working Proficiency
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 - 📧 **Email:** [zeddrix.fabian@codefrost.com](mailto:zeddrix.fabian@codefrost.com)
 - 💼 **LinkedIn:** [zeddrix-fabian](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/)
@@ -110,7 +110,7 @@ View my certifications on [LinkedIn](https://www.linkedin.com/in/zeddrix-fabian-
 
 ---
 
-## 🤝 Open for Collaboration
+## Open for Collaboration
 
 I'm always interested in connecting with fellow developers and potential collaborators. Whether you're interested in:
 
