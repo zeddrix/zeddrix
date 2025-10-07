@@ -52,31 +52,25 @@ Our team combines decades of experience with cutting-edge AI tools to deliver ex
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Projects I've Contributed Development to
 
-### Contributed Development to
-
-#### 1. [UseDelight](https://chromewebstore.google.com/detail/Nature%20Wallpapers%20HD%20video%20New%20Tab%20background/hehbgjdnbibkndghdlilefececadokpb)
+### [UseDelight](https://chromewebstore.google.com/detail/Nature%20Wallpapers%20HD%20video%20New%20Tab%20background/hehbgjdnbibkndghdlilefececadokpb)
 
 ![UseDelight Chrome Extension - Nature Wallpapers HD Video New Tab Background](usedelight-chrome-extension.png)
 
 Transform your new tab into a stunning, safe-for-work dashboard with UseDelight—perfect for classrooms, offices, and home users. Enjoy over 1,500 high-definition motion video backgrounds featuring breathtaking scenes from oceans, beaches, mountains, forests, waterfalls, deserts, and all four seasons. Each new tab brings you a fresh, immersive view of Earth's natural wonders, helping you relax, focus, and stay inspired throughout your day.
 
-#### 2. AnswerIQ
+### AnswerIQ
 
 ![AnswerIQ - AI-Powered FAQ Generation Platform](answeriq-platform.png)
 
 Automatically create People Also Ask-based FAQ articles that boost your store's SEO and help customers find answers faster.
 
-#### 3. [TrulyHappy](https://trulyhappy.app/)
+### [TrulyHappy](https://trulyhappy.app/)
 
 ![TrulyHappy App - Personalized Wellness and Happiness Guidance](trulyhappy-app.png)
 
 Personalized guidance, adapting to your needs for a more fulfilling and joyful life.
-
-#### 4. JW Guitar Tabs
-
-Guitar tablature resource platform for worship music.
 
 ---
 
@@ -96,7 +90,8 @@ View my certifications on [LinkedIn](https://www.linkedin.com/in/zeddrix-fabian-
 ## 📫 Get In Touch
 
 - 📧 **Email:** [zeddrix.fabian@codefrost.com](mailto:zeddrix.fabian@codefrost.com)
-- 💼 **LinkedIn:** [zeddrix-fabian-30a18029a](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/)
+- 💼 **LinkedIn:** [zeddrix-fabian](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/)
+- 🌐 **Website:** [zeddrix.com](https://zeddrix.com)
 
 ---
 
