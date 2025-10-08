@@ -75,6 +75,12 @@ Our team combines decades of experience with cutting-edge AI tools to deliver ex
 
 Transform your new tab into a stunning, safe-for-work dashboard with UseDelight—perfect for classrooms, offices, and home users. Enjoy over 1,500 high-definition motion video backgrounds featuring breathtaking scenes from oceans, beaches, mountains, forests, waterfalls, deserts, and all four seasons. Each new tab brings you a fresh, immersive view of Earth's natural wonders, helping you relax, focus, and stay inspired throughout your day.
 
+### [Bolt to GitHub](https://chromewebstore.google.com/detail/bolt-to-github/pikdepbilbnnpgdkdaaoeekgflljmame?hl=en-US&utm_source=ext_sidebar)
+
+![Bolt to GitHub - Chrome Extension Screenshot](bolt-to-github.png)
+
+Bolt-to-GitHub is a productivity Chrome extension that streamlines the workflow of creating and syncing GitHub issues and repositories directly from the browser. Quickly capture context, create issues with prefilled metadata, and push code snippets or repository setup tasks to GitHub without switching apps—saving time for engineers and product teams.
+
 ### AnswerIQ
 
 ![AnswerIQ - AI-Powered FAQ Generation Platform](answeriq-platform.png)
