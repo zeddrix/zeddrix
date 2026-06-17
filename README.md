@@ -14,7 +14,7 @@ I have been developing since 2018 and I enjoy turning complex requirements into 
 
 I like to work smart, not hard. So I utilize AI tools like Cursor and Claude Code to move quickly without sacrificing quality, using the Acceptance Test-Driven Development (ATDD) approach.
 
-Shipping **10 live products** since **2018**, specializing in **SvelteKit, React, Angular**.
+Shipping **11 live products** since **2018**, specializing in **SvelteKit, React, Angular**.
 
 **Portfolio:** [zeddrix.github.io/portfolio](https://zeddrix.github.io/portfolio)
 
@@ -144,36 +144,57 @@ AI-powered FAQ generation SaaS for Shopify SEO
 
 ## More Projects
 
+### Manatal Coop
+
+![Manatal Coop](./manatal-coop.png)
+
+**Full-stack contributor** — Cooperative member banking PWA with financial request workflows, offline caching, and push notifications.
+
+Member banking PWA for a Philippine credit union
+
+[Member app](https://manatalcoop.app/)
+
+**Stack:**  
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=amplify&logoColor=white)
+
 ### TrulyHappy
 
 ![TrulyHappy](./trulyhappy.png)
 
-**Full-stack contributor** — Subscription-ready PWA with Redis-backed services and a maintainable BFF architecture.
+**Full-stack contributor** — Mental wellbeing PWA with guided habits, mood tracking, missions, and subscription-ready billing.
+
+Mental wellbeing PWA with guided habits and subscriptions
 
 [Website](https://trulyhappy.app/)
 
 **Stack:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![BFF](https://img.shields.io/badge/BFF-555555?style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ### Articulearn
 
 ![Articulearn](./articulearn.png)
 
-**Full-stack contributor** — Learning UX patterns that support rapid iteration with billing and BFF integrations.
+**Full-stack contributor** — Language speaking practice PWA with audio shadowing, segmented sessions, and subscription billing.
+
+AI-assisted language speaking practice PWA
 
 [Website](https://articulearn.app/)
 
 **Stack:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![BFF](https://img.shields.io/badge/BFF-555555?style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![WaveSurfer.js](https://img.shields.io/badge/WaveSurfer.js-555555?style=flat)
 
 ### Bolt to Github
 
 ![Bolt to Github](./bolt-to-github.png)
 
-**Full-stack contributor** — Shipped a live workflow that moves prototypes to production-ready GitHub repositories with AI-assisted automation.
+**Full-stack contributor** — Chrome extension that intercepts Bolt.new ZIP exports and pushes projects to GitHub with PAT or App auth.
+
+Chrome extension bridging Bolt.new exports to GitHub repos
+
+[Website](https://bolt2github.com/) · [Chrome Extension](https://chromewebstore.google.com/detail/pikdepbilbnnpgdkdaaoeekgflljmame)
 
 **Stack:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Automation Workflows](https://img.shields.io/badge/Automation_Workflows-555555?style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_(MV3)-4285F4?style=flat&logo=googlechrome&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ---
 
