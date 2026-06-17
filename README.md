@@ -179,7 +179,15 @@ AI-powered FAQ generation SaaS for Shopify SEO
 
 ## Certifications
 
-View my certifications on [LinkedIn](https://www.linkedin.com/in/zeddrix-fabian-30a18029a//details/certifications/).
+| Course | Issuer | Completed | Verify |
+|--------|--------|-----------|--------|
+| Modern JavaScript From The Beginning | Udemy | Nov 2020 | [View certificate](https://zeddrix.github.io/portfolio/certificates/modern-javascript-from-the-beginning) |
+| ReactJS Front to Back | Udemy | Jan 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/reactjs-front-to-back) |
+| CSS – The Complete Guide 2021 (incl. Flexbox, Grid & Sass) | Udemy | Feb 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/css-complete-guide-2021) |
+| Node.js API Masterclass With Express & MongoDB | Udemy | Mar 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/nodejs-api-masterclass) |
+| MERN eCommerce From Scratch | Udemy | Apr 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/mern-ecommerce-from-scratch) |
+
+All certifications: [portfolio certificates](https://zeddrix.github.io/portfolio/certificates)
 
 ---
 
