@@ -144,15 +144,19 @@ AI-powered FAQ generation SaaS for Shopify SEO
 
 ## More Projects
 
-### Manatal Coop
+### [Manatal Coop](https://zeddrix.github.io/portfolio/projects/manatal-coop)
 
-![Manatal Coop](./manatal-coop.png)
+<p align="left">
+  <img src="./manatal-coop-homepage.png" width="220" alt="Manatal Cooperative member home screen" />
+  <img src="./manatal-coop-signin.png" width="220" alt="Manatal Cooperative sign-in screen" />
+  <img src="./manatal-coop-chatbot.png" width="220" alt="Manatal Cooperative assistant screen" />
+</p>
 
 **Full-stack contributor** — Cooperative member banking PWA with financial request workflows, offline caching, and push notifications.
 
 Member banking PWA for a Philippine credit union
 
-[Member app](https://manatalcoop.app/)
+[Portfolio case study](https://zeddrix.github.io/portfolio/projects/manatal-coop) · [Member app](https://manatalcoop.app/)
 
 **Stack:**  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=amplify&logoColor=white)
