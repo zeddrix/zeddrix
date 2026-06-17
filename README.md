@@ -62,6 +62,8 @@ Shipping **11 live products** since **2018**, specializing in **SvelteKit, React
 **DevOps, platforms & workflow:**  
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 
+*Primary depth in the stacks above; comfortable ramping on new languages and frameworks with AI-accelerated workflows.*
+
 ---
 
 ## Featured Projects
