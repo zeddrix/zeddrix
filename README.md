@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:zeddrix.fabian@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://zeddrix.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://zeddrix.com)
 
 > Full-stack web app developer shipping production apps with AI-accelerated workflows.
 
@@ -62,13 +62,13 @@ I specialize in SvelteKit, React, and Angular while staying adaptable to product
 
 Shipping **11 live products** since **2018**, specializing in **SvelteKit, React, Angular**.
 
-**Portfolio:** [zeddrix.github.io/portfolio](https://zeddrix.github.io/portfolio)
+**Portfolio:** [zeddrix.com](https://zeddrix.com)
 
 ---
 
 ## Featured Projects
 
-### [UseDelight](https://zeddrix.github.io/portfolio/projects/usedelight)
+### [UseDelight](https://zeddrix.com/projects/usedelight)
 
 ![UseDelight](./usedelight.png)
 
@@ -81,7 +81,7 @@ Landing site and browser extension ecosystem
 **Stack:**  
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-### [Adverio Tools](https://zeddrix.github.io/portfolio/projects/adverio-tools)
+### [Adverio Tools](https://zeddrix.com/projects/adverio-tools)
 
 ![Adverio Tools](./adverio-tools.png)
 
@@ -94,7 +94,7 @@ AI-assisted Amazon brand tooling suite
 **Stack:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### [MERN's Shop](https://zeddrix.github.io/portfolio/projects/merns-shop)
+### [MERN's Shop](https://zeddrix.com/projects/merns-shop)
 
 ![MERN's Shop](./merns-shop.png)
 
@@ -107,7 +107,7 @@ Full-stack MERN e-commerce with PWA and ATDD
 **Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat&logo=paypal&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 
-### [Queue](https://zeddrix.github.io/portfolio/projects/queue)
+### [Queue](https://zeddrix.com/projects/queue)
 
 ![Queue](./queue.png)
 
@@ -118,7 +118,7 @@ PWA for walk-ins, bookings, and operations
 **Stack:**  
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=flat) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![Lemon Squeezy](https://img.shields.io/badge/Lemon_Squeezy-FFC233?style=flat&logo=lemonsqueezy&logoColor=black)
 
-### [JW Tabs](https://zeddrix.github.io/portfolio/projects/jw-tabs)
+### [JW Tabs](https://zeddrix.com/projects/jw-tabs)
 
 ![JW Tabs](./jw-tabs.png)
 
@@ -129,7 +129,7 @@ Tablature platform for guitar and ukulele players
 **Stack:**  
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=flat) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![Lemon Squeezy](https://img.shields.io/badge/Lemon_Squeezy-FFC233?style=flat&logo=lemonsqueezy&logoColor=black)
 
-### [AnswerIQ](https://zeddrix.github.io/portfolio/projects/answeriq)
+### [AnswerIQ](https://zeddrix.com/projects/answeriq)
 
 ![AnswerIQ](./answeriq.png)
 
@@ -146,7 +146,7 @@ AI-powered FAQ generation SaaS for Shopify SEO
 
 ## More Projects
 
-### [Manatal Coop](https://zeddrix.github.io/portfolio/projects/manatal-coop)
+### [Manatal Coop](https://zeddrix.com/projects/manatal-coop)
 
 <p align="left">
   <img src="./manatal-coop-homepage.png" width="220" alt="Manatal Cooperative member home screen" />
@@ -158,7 +158,7 @@ AI-powered FAQ generation SaaS for Shopify SEO
 
 Member banking PWA for a Philippine credit union
 
-[Portfolio case study](https://zeddrix.github.io/portfolio/projects/manatal-coop) · [Member app](https://manatalcoop.app/)
+[Portfolio case study](https://zeddrix.com/projects/manatal-coop) · [Member app](https://manatalcoop.app/)
 
 **Stack:**  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=amplify&logoColor=white)
@@ -208,13 +208,13 @@ Chrome extension bridging Bolt.new exports to GitHub repos
 
 | Course | Issuer | Completed | Verify |
 |--------|--------|-----------|--------|
-| Modern JavaScript From The Beginning | Udemy | Nov 2020 | [View certificate](https://zeddrix.github.io/portfolio/certificates/modern-javascript-from-the-beginning) |
-| ReactJS Front to Back | Udemy | Jan 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/reactjs-front-to-back) |
-| CSS – The Complete Guide 2021 (incl. Flexbox, Grid & Sass) | Udemy | Feb 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/css-complete-guide-2021) |
-| Node.js API Masterclass With Express & MongoDB | Udemy | Mar 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/nodejs-api-masterclass) |
-| MERN eCommerce From Scratch | Udemy | Apr 2021 | [View certificate](https://zeddrix.github.io/portfolio/certificates/mern-ecommerce-from-scratch) |
+| Modern JavaScript From The Beginning | Udemy | Nov 2020 | [View certificate](https://zeddrix.com/certificates/modern-javascript-from-the-beginning) |
+| ReactJS Front to Back | Udemy | Jan 2021 | [View certificate](https://zeddrix.com/certificates/reactjs-front-to-back) |
+| CSS – The Complete Guide 2021 (incl. Flexbox, Grid & Sass) | Udemy | Feb 2021 | [View certificate](https://zeddrix.com/certificates/css-complete-guide-2021) |
+| Node.js API Masterclass With Express & MongoDB | Udemy | Mar 2021 | [View certificate](https://zeddrix.com/certificates/nodejs-api-masterclass) |
+| MERN eCommerce From Scratch | Udemy | Apr 2021 | [View certificate](https://zeddrix.com/certificates/mern-ecommerce-from-scratch) |
 
-All certifications: [portfolio certificates](https://zeddrix.github.io/portfolio/certificates)
+All certifications: [portfolio certificates](https://zeddrix.com/certificates)
 
 ---
 
@@ -229,7 +229,7 @@ All certifications: [portfolio certificates](https://zeddrix.github.io/portfolio
 
 - **Email:** [zeddrix.fabian@gmail.com](mailto:zeddrix.fabian@gmail.com)
 - **LinkedIn:** [zeddrix-fabian](https://www.linkedin.com/in/zeddrix-fabian-30a18029a/)
-- **Portfolio:** [zeddrix.github.io/portfolio](https://zeddrix.github.io/portfolio)
+- **Portfolio:** [zeddrix.com](https://zeddrix.com)
 - **GitHub:** [zeddrix](https://github.com/zeddrix)
 
 ---
